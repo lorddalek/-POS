@@ -1,0 +1,8 @@
+This POS system uses a Microsoft Access Database for local storage of products and user profiles.
+Default login for back office is: Setup / Password: setup
+You will need to create a POS login using back office to access POS
+
+
+Version 1:
+The system is incomplete and some functions do not work.
+There is currently no pay methods.
